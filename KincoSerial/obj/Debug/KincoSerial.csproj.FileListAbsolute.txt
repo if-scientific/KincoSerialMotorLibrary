@@ -1,0 +1,15 @@
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\obj\Debug\KincoSerial.csproj.AssemblyReference.cache
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\obj\Debug\KincoSerial.csproj.SuggestedBindingRedirects.cache
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\obj\Debug\KincoSerial.csproj.CoreCompileInputs.cache
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\bin\Debug\KincoSerial.exe.config
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\bin\Debug\KincoSerial.exe
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\bin\Debug\KincoSerial.pdb
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\obj\Debug\KincoSerial.exe
+C:\Users\RRAD\source\repos\KincoSerial\KincoSerial\obj\Debug\KincoSerial.pdb
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Debug\KincoSerial.csproj.AssemblyReference.cache
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Debug\KincoSerial.csproj.CoreCompileInputs.cache
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Debug\KincoSerial.pdb
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\bin\Debug\KincoSerial.pdb
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\bin\Debug\KincoSerial.dll.config
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\bin\Debug\KincoSerial.dll
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Debug\KincoSerial.dll

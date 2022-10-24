@@ -1,0 +1,7 @@
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\bin\Release\KincoSerial.dll.config
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\bin\Release\KincoSerial.dll
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\bin\Release\KincoSerial.pdb
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Release\KincoSerial.csproj.AssemblyReference.cache
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Release\KincoSerial.csproj.CoreCompileInputs.cache
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Release\KincoSerial.dll
+C:\Users\RRAD\source\repos\kincoseriallibrary\KincoSerial\obj\Release\KincoSerial.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>KincoSerialMotorLibraryIfScientific</id>
+    <version>1.0.6</version>
+    <authors>bashar.atoum</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <description>Simple library to abstract the serial calls used with the kinco servo motor.</description>
+    <releaseNotes>Simple fix.</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+     <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+  </metadata>
+</package>
